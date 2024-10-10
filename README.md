@@ -1,1 +1,4 @@
 # Electric-Vehicle-Dashboard
+This is Power BI end to end project.
+
+Electric vehicles (EVs) are transforming the way we think about transportation. With the rise of climate change and increasing concerns about air pollution, EVs offer a sustainable alternative to traditional gas-powered cars around the World.  Rechargeable batteries power these vehicles and produce zero emissions, making them an environmentally-friendly choice for drivers. But EVs aren’t just good for the planet – they also offer much cheaper running costs, a smooth and quiet ride, with the benefit of instant torque and acceleration.  Whether commuting to work, running errands, taking a road trip, or taking your classic car for a Sunday drive, there’s an Electric vehicles option to suit your needs. And as technology continues to evolve, Electric vehicles are becoming more accessible and affordable than ever before.
